@@ -1,6 +1,6 @@
 # My ML Project
 
-A machine learning project with automated CI/CD pipeline.
+A machine learning project with automated CI/CD pipeline and virtual environment setup.
 
 ## Project Structure
 
