@@ -1,3 +1,4 @@
-pip install -r requirements.txt
-python train_model.py
-pytest test_model.py
+pandas
+scikit-learn
+joblib
+pytest
